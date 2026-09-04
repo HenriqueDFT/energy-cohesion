@@ -222,6 +222,7 @@ Contribuições são extremamente bem-vindas! Sinta-se à vontade para colaborar
 Desenvolvido por Henrique Lago, bacharel em Física pela Universidade Federal do Piauí (UFPI), membro do grupo de Nanofísica Computacional (GNC/UFPI), com experiência em simulações via DFT utilizando o pacote SIESTA.
 
 GitHub: @HenriqueDFT
+E-mail: henrique.liberato@ufpi.edu.br
 
 ---
 

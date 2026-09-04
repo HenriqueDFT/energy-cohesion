@@ -190,7 +190,7 @@ cd energy-cohesion
 Nenhuma biblioteca externa adicional é necessária. Para iniciar a interface, execute:
 
 ```bash
-python coesin.py
+python Ecoisin.py
 ```
 
 #### Módulos da Biblioteca Padrão Utilizados:
